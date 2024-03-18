@@ -7,3 +7,5 @@
 1. GitHub Desktop 설치
 2. Example_1stRepository Clone
 3. 집에서 내용수정 후 Commit & Push
+
+https://www.notion.so/20240318-56c70bd4bcf442ae9e8b31a977960331?pvs=4
